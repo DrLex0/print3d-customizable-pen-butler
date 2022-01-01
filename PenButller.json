@@ -1,0 +1,126 @@
+{
+    "parameterSets": {
+        "Wall 4 slots, holes": {
+            "bottomType": "modular",
+            "generateModel": "wall",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "4",
+            "outerWidth": "70",
+            "topType": "holes"
+        },
+        "Wall 4 slots, module": {
+            "bottomType": "modular",
+            "generateModel": "wall",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "4",
+            "outerWidth": "70",
+            "topType": "modular"
+        },
+        "Wall 5 slots, holes": {
+            "bottomType": "modular",
+            "generateModel": "wall",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "5",
+            "outerWidth": "70",
+            "topType": "holes"
+        },
+        "Wall 5 slots, module": {
+            "bottomType": "modular",
+            "generateModel": "wall",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "5",
+            "outerWidth": "70",
+            "topType": "modular"
+        },
+        "Wall 6 slots, holes": {
+            "bottomType": "modular",
+            "generateModel": "wall",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "6",
+            "outerWidth": "70",
+            "topType": "holes"
+        },
+        "Wall 6 slots, module": {
+            "bottomType": "modular",
+            "generateModel": "wall",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "6",
+            "outerWidth": "70",
+            "topType": "modular"
+        },
+        "Desk model 4 slots, holder": {
+            "bottomType": "modular",
+            "generateModel": "single",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "4",
+            "outerWidth": "70",
+            "topType": "none"
+        },
+        "Desk model 4 slots, base": {
+            "bottomType": "modular",
+            "generateModel": "base",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "4",
+            "outerWidth": "70",
+            "topType": "none"
+        },
+        "Desk model 6 slots, holder": {
+            "bottomType": "modular",
+            "generateModel": "single",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "6",
+            "outerWidth": "70",
+            "topType": "none"
+        },
+        "Desk model 6 slots, base": {
+            "bottomType": "modular",
+            "generateModel": "base",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "6",
+            "outerWidth": "70",
+            "topType": "none"
+        },
+        "Tolerance test piece": {
+            "bottomType": "modular",
+            "generateModel": "single",
+            "holdWid": "10",
+            "holeDiameter": "3",
+            "maxPenDia": "13",
+            "modularTolerance": "0.1",
+            "numSlots": "1",
+            "outerWidth": "70",
+            "topType": "modular"
+        }
+    },
+    "fileFormatVersion": "1"
+}
