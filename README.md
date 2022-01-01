@@ -52,3 +52,8 @@ Added a ‘smooth’ version that has slightly more elegant curves, and should m
 ### 2022/01/01
 Migrated to GitHub.
 Converted to customizable OpenSCAD file, and added desk version similar to the original.
+
+
+## Tags
+
+`customizable`, `customizer`, `hanger`, `marker_holder`, `openscad`, `pencil_holder`, `pen_holder`, `Wall_Hanger`, `wall_mount`
